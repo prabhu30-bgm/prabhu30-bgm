@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Basavaprabhu 👋
 
-<!--
-**prabhu30-bgm/prabhu30-bgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at BMS Institute of Technology & Management
+💻 Java Developer | Database Developer | MERN Stack Enthusiast
+🌱 Currently learning Full Stack Development and DSA
+🚀 Interested in building real-world web applications
+📚 Practicing Java and SQL on LeetCode
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* MySQL
+* MongoDB
+* JavaScript
+* React
+* HTML/CSS
+* DBMS
+* DSA
+
+## Current Focus
+
+* MERN Stack Development
+* Problem Solving using Java
+* Backend Development
+* Real-world Projects
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/basavaprabhu-kudenatti/
+* LeetCode: https://leetcode.com/u/5kCp4D1N4Q/
