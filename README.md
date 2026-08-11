@@ -1,167 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20I'm%20Basavaprabhu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=600&lines=Basavaprabhu" />
+
+<sub>Java Developer&nbsp;&nbsp;•&nbsp;&nbsp;Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;MCA Student</sub>
 
 <br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-2c5364?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<sub><i>I build practical software and explore modern backend & full-stack technologies.</i></sub>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=I+build+practical+software+%F0%9F%9A%80;Exploring+backend+%26+full-stack+tech+%E2%98%95;Java+%2B+Spring+Boot+%2B+React+%2B+Node.js" />
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=8B949E"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=8B949E"/></a>
+<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=readdotcv&logoColor=8B949E"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=8B949E"/></a>
+
+<br/><br/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 Developer Hub
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Repos-15-2c5364?style=for-the-badge&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Stars-120-00c6ff?style=for-the-badge&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Followers-45-2c5364?style=for-the-badge&labelColor=0f2027"/>
+### 📊 Developer Hub
 
-</div>
-
-<br/>
-
-## 📈 Contributions
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhu30-bgm&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
-</div>
-
-<br/>
-
-## 🔥 Consistency
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=2C5364&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack &nbsp;|&nbsp; 💻 Languages
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="140">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
+**15**
+<br/>
+<sub>Repositories</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="140">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C6FF" />
-</div>
+**120**
+<br/>
+<sub>Stars</sub>
+
+</td>
+<td align="center" width="140">
+
+**45**
+<br/>
+<sub>Followers</sub>
+
+</td>
+<td align="center" width="140">
+
+**386**
+<br/>
+<sub>Contributions</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🚀 Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🆘 The Saviour
-**Community Disaster Response Platform**
-
-`MERN` `Socket.IO` `JWT` `MongoDB`
-
-[![View Project](https://img.shields.io/badge/View_Project-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/the-saviour)
-[![Documentation](https://img.shields.io/badge/Docs-0f2027?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/the-saviour/wiki)
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Spring Boot Project
-**Production-style REST API**
-
-`Java` `Spring Boot` `Database`
-
-[![View Project](https://img.shields.io/badge/View_Project-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/spring-boot-project)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-## 🧭 Developer Journey
+<div align="center">
 
-```mermaid
-graph TD
-    A[🎓 BCA] --> B[🎓 MCA]
-    B --> C[MERN Stack]
-    B --> D[Java Development]
-    B --> E[Spring Boot]
-    C --> F[Full Stack Developer]
-    D --> F
-    E --> F
-    F --> G[🚀 Software Developer]
+### 📈 Contribution Calendar
 
-    style A fill:#0f2027,stroke:#00c6ff,color:#fff
-    style B fill:#0f2027,stroke:#00c6ff,color:#fff
-    style C fill:#203a43,stroke:#00c6ff,color:#fff
-    style D fill:#203a43,stroke:#00c6ff,color:#fff
-    style E fill:#203a43,stroke:#00c6ff,color:#fff
-    style F fill:#2c5364,stroke:#00c6ff,color:#fff
-    style G fill:#00c6ff,stroke:#0f2027,color:#000
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=238636" width="100%"/>
+
+<br/><br/>
+
+### 🔥 Consistency
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,nodejs,react,nextjs,mongodb,postgres&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,d3,figma&theme=dark" />
+
+<br/><br/>
+
+### 💻 Language Breakdown
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=E6EDF3" />
+
+<br/><br/>
+
+### ⚡ Coding Activity — Last 30 Days
+
+</div>
+
+```
+Java          ████████████████░░░░  42%
+JavaScript    ████████████░░░░░░░░  31%
+React         ████████░░░░░░░░░░░░  18%
+Other         ████░░░░░░░░░░░░░░░░   9%
 ```
 
 <br/>
 
-## 🌱 Currently
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-| 🔨 Building | ☕ Learning | 🧠 Exploring | ☁️ Next |
-|:---:|:---:|:---:|:---:|
-| The Saviour | Spring Boot | System Design | Docker & Cloud |
+### 🚀 Featured Projects
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🆘 The Saviour**
+<br/>
+<sub>Community Disaster Response Platform</sub>
+<br/><br/>
+`MERN` `Socket.IO` `JWT`
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/View_Project-161B22?style=flat-square&logo=github&logoColor=8B949E"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**🚌 Bus Management System**
+<br/>
+<sub>Online booking & route management</sub>
+<br/><br/>
+`PHP` `MySQL` `JavaScript`
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/View_Project-161B22?style=flat-square&logo=github&logoColor=8B949E"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**🖼️ Pixabay Image Gallery**
+<br/>
+<sub>Searchable image gallery app</sub>
+<br/><br/>
+`React` `Pixabay API`
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/View_Project-161B22?style=flat-square&logo=github&logoColor=8B949E"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### 🧭 Developer Journey
+
+<img src="https://img.shields.io/badge/🎓_BCA-161B22?style=for-the-badge&color=161B22&logoColor=8B949E"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/🎓_MCA-161B22?style=for-the-badge&color=161B22&logoColor=8B949E"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/MERN_Stack-161B22?style=for-the-badge&color=161B22&logoColor=8B949E"/>&nbsp;
+<img src="https://img.shields.io/badge/Java_Development-161B22?style=for-the-badge&color=161B22&logoColor=8B949E"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&color=161B22&logoColor=8B949E"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/Full_Stack_Developer-238636?style=for-the-badge&color=238636&logoColor=white"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/🚀_Software_Developer-3FB950?style=for-the-badge&color=3FB950&logoColor=0D1117"/>
+
+<br/><br/>
+
+### 🌱 Currently
+
+<table>
+<tr><td align="center" width="180">🔨 Building</td><td>The Saviour</td></tr>
+<tr><td align="center" width="180">☕ Learning</td><td>Spring Boot</td></tr>
+<tr><td align="center" width="180">🧠 Exploring</td><td>System Design</td></tr>
+<tr><td align="center" width="180">☁️ Next</td><td>Docker & Cloud</td></tr>
+</table>
+
+<br/>
+
+### 🏆 Certifications
+
+<img src="https://img.shields.io/badge/MERN_Stack-161B22?style=flat-square&color=161B22&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/SQL%2FDBMS-161B22?style=flat-square&color=161B22&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Green_Skills-161B22?style=flat-square&color=161B22&logoColor=8B949E"/>
 
 </div>
 
 <br/>
 
-## 🏆 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MERN_Stack-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL%2FDBMS-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Green_Skills-2c5364?style=flat-square"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🤝 Let's Connect
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=8B949E"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=8B949E"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=8B949E"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=8B949E"/></a>
+
+<br/><br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
