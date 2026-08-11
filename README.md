@@ -75,35 +75,3 @@
 
 <br/>
 
-<div align="center">
-
-### 🚀 Pinned Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/prabhu30-bgm/the-saviour">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=prabhu30-bgm&repo=the-saviour&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=E6EDF3" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/prabhu30-bgm/bus-management-system">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=prabhu30-bgm&repo=bus-management-system&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=E6EDF3" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/prabhu30-bgm/pixabay-image-gallery">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=prabhu30-bgm&repo=pixabay-image-gallery&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=E6EDF3" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/prabhu30-bgm/LeetCode-Practice">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=prabhu30-bgm&repo=LeetCode-Practice&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=E6EDF3" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
