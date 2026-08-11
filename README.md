@@ -70,7 +70,7 @@
 
 ### 📈 Contribution Calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=238636" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhu30-bgm&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=238636" width="100%"/>
 
 <br/><br/>
 
