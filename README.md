@@ -1,122 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=220&section=header&text=Basavaprabhu%20Kudenatti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Database%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=17" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20I'm%20Basavaprabhu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/basavaprabhu-kudenatti/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/5kCp4D1N4Q/">
-  <img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="mailto:basavaprabhukudenatti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=prabhu30-bgm&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-2c5364?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=I+build+practical+software+%F0%9F%9A%80;Exploring+backend+%26+full-stack+tech+%E2%98%95;Java+%2B+Spring+Boot+%2B+React+%2B+Node.js" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 📊 Developer Hub
 
-- 🎓 MCA Student at **BMS Institute of Technology & Management**
-- 💻 Java Developer · Database Developer · MERN Stack Enthusiast
-- 🌱 Currently learning **Full Stack Development** and **DSA**
-- 🚀 Interested in building real-world web applications
-- 📚 Practicing Java & SQL on **LeetCode**, daily
+<div align="center">
+
+<img src="https://img.shields.io/badge/Repos-15-2c5364?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/Stars-120-00c6ff?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/Followers-45-2c5364?style=for-the-badge&labelColor=0f2027"/>
+
+</div>
 
 <br/>
 
-## 🎯 Current Focus
+## 📈 Contributions
 
-<table>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+</div>
+
+<br/>
+
+## 🔥 Consistency
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=2C5364&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack &nbsp;|&nbsp; 💻 Languages
+
+<table width="100%">
 <tr>
-<td>🔨</td><td><b>MERN Stack Development</b></td>
-<td>🧩</td><td><b>Problem Solving using Java</b></td>
-</tr>
-<tr>
-<td>🖥️</td><td><b>Backend Development</b></td>
-<td>📦</td><td><b>Real-world Projects</b></td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C6FF" />
+</div>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🚀 Featured Work
 
-**Languages**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+### 🆘 The Saviour
+**Community Disaster Response Platform**
 
-**Frontend**
+`MERN` `Socket.IO` `JWT` `MongoDB`
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+[![View Project](https://img.shields.io/badge/View_Project-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/the-saviour)
+[![Documentation](https://img.shields.io/badge/Docs-0f2027?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/the-saviour/wiki)
 
-**Backend & Database**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBMS-2D2D2D?style=flat-square"/>
+### ☕ Spring Boot Project
+**Production-style REST API**
 
-**Core Concepts**
+`Java` `Spring Boot` `Database`
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=flat-square"/>
+[![View Project](https://img.shields.io/badge/View_Project-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/spring-boot-project)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🧭 Developer Journey
+
+```mermaid
+graph TD
+    A[🎓 BCA] --> B[🎓 MCA]
+    B --> C[MERN Stack]
+    B --> D[Java Development]
+    B --> E[Spring Boot]
+    C --> F[Full Stack Developer]
+    D --> F
+    E --> F
+    F --> G[🚀 Software Developer]
+
+    style A fill:#0f2027,stroke:#00c6ff,color:#fff
+    style B fill:#0f2027,stroke:#00c6ff,color:#fff
+    style C fill:#203a43,stroke:#00c6ff,color:#fff
+    style D fill:#203a43,stroke:#00c6ff,color:#fff
+    style E fill:#203a43,stroke:#00c6ff,color:#fff
+    style F fill:#2c5364,stroke:#00c6ff,color:#fff
+    style G fill:#00c6ff,stroke:#0f2027,color:#000
+```
+
+<br/>
+
+## 🌱 Currently
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabhu30-bgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=prabhu30-bgm&theme=tokyonight&hide_border=true"/>
+
+| 🔨 Building | ☕ Learning | 🧠 Exploring | ☁️ Next |
+|:---:|:---:|:---:|:---:|
+| The Saviour | Spring Boot | System Design | Docker & Cloud |
+
 </div>
+
+<br/>
+
+## 🏆 Certifications
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30-bgm&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhu30-bgm&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://img.shields.io/badge/MERN_Stack-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL%2FDBMS-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Green_Skills-2c5364?style=flat-square"/>
+
 </div>
 
 <br/>
 
-## 🧩 LeetCode Journey
-
-<!-- LEETCODE:START -->
-> Stats update automatically every day via GitHub Actions. Run the workflow once to populate this section.
-<!-- LEETCODE:END -->
-
-<br/>
-
-## 📅 Daily Activity Log
-
-> Auto-updated every day at midnight UTC — shows what got committed that day across public repos.
-
-<!-- DAILY-LOG:START -->
-_No entries yet — this fills in after the `update-daily-log` workflow runs for the first time._
-<!-- DAILY-LOG:END -->
-
-<br/>
-
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
-<a href="https://www.linkedin.com/in/basavaprabhu-kudenatti/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/5kCp4D1N4Q/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="mailto:basavaprabhukudenatti@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
