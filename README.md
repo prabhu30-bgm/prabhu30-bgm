@@ -32,7 +32,7 @@
 ## 📈 Contributions
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhu30-bgm&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
 </div>
 
 <br/>
