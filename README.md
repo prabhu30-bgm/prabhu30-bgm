@@ -1,30 +1,19 @@
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=600&lines=Basavaprabhu" />
-
-<sub>Java Developer&nbsp;&nbsp;•&nbsp;&nbsp;Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;MCA Student</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20I'm%20Basavaprabhu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<sub><i>I build practical software and explore modern backend & full-stack technologies.</i></sub>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-2c5364?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=8B949E"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=8B949E"/></a>
-<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=readdotcv&logoColor=8B949E"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=8B949E"/></a>
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=I+build+practical+software+%F0%9F%9A%80;Exploring+backend+%26+full-stack+tech+%E2%98%95;Java+%2B+Spring+Boot+%2B+React+%2B+Node.js" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
 <div align="center">
 
 ### 📊 Developer Hub
@@ -73,7 +62,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhu30-bgm&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=238636" width="100%"/>
 
 <br/><br/>
-
 ### 🔥 Consistency
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
@@ -98,21 +86,19 @@
 
 ### 💻 Language Breakdown
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=E6EDF3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30-bgm&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=E6EDF3" />
 
 <br/><br/>
 
-### ⚡ Coding Activity — Last 30 Days
+### ⚡ LeetCode Practice — Live
+
+<sub>Auto-updates directly from LeetCode. Solve a problem there, it shows up here — nothing manual.</sub>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/5kCp4D1N4Q?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%"/>
 
 </div>
-
-```
-Java          ████████████████░░░░  42%
-JavaScript    ████████████░░░░░░░░  31%
-React         ████████░░░░░░░░░░░░  18%
-Other         ████░░░░░░░░░░░░░░░░   9%
-```
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
