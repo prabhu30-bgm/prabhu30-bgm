@@ -45,7 +45,7 @@
     <td width="50%" align="center" valign="top">
       <h4>⚙️ Backend, Databases & Tools</h4>
       <br/>
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,git,vscode,postman,xampp&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,vscode,postman,xampp&theme=dark" />
     </td>
   </tr>
 </table>
